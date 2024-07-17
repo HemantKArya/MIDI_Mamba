@@ -10,27 +10,27 @@ Some sample generation/output from this model -
 
 <audio controls>
 <source src="./sample_output/output (3).wav" type="audio/wav">
-[Audio 1](./sample_output/output%20(3).wav)
+<a href="./sample_output/output%20(3).wav"> Audio 1 </a>
 </audio>
 <br>
 <audio controls>
 <source src="./sample_output/output (4).wav" type="audio/wav">
-[Audio 2](./sample_output/output%20(4).wav)
+<a href="./sample_output/output%20(4).wav"> Audio 2 </a>
 </audio>
 <br>
 <audio controls>
 <source src="./sample_output/output (1).wav" type="audio/wav">
-[Audio 3](./sample_output/output%20(1).wav)
+<a href="./sample_output/output%20(1).wav"> Audio 3 </a>
 </audio>
 <br>
 <audio controls>
 <source src="./sample_output/output (2).wav" type="audio/wav">
-[Audio 4](./sample_output/output%20(2).wav)
+<a href="./sample_output/output%20(2).wav"> Audio 4 </a>
 </audio>
 <br>
 <audio controls>
 <source src="./sample_output/output (5).wav" type="audio/wav">
-[Audio 5](./sample_output/output%20(5).wav)
+<a href="./sample_output/output%20(5).wav"> Audio 5 </a>
 </audio>
 
 
