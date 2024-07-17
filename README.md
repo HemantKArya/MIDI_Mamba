@@ -7,30 +7,25 @@ A MIDI Based music generation model based on Mamba archetecture.
 Download Pre-Trained Model from - [Huggingface 🤗](https://huggingface.co/krystv/MIDI_Mamba-159M). <br>
 Some sample generation/output from this model - 
 
-<audio controls>
-<source src="./sample_output/output.wav" type="audio/wav">
-audio is not supported yet.
-</audio>
-
-<audio controls>
-<source src="./sample_output/output (1).wav" type="audio/wav">
-audio is not supported yet.
-</audio>
-
-<audio controls>
-<source src="./sample_output/output (2).wav" type="audio/wav">
-audio is not supported yet.
-</audio>
 
 <audio controls>
 <source src="./sample_output/output (3).wav" type="audio/wav">
 audio is not supported yet.
 </audio>
-
 <audio controls>
 <source src="./sample_output/output (4).wav" type="audio/wav">
 audio is not supported yet.
 </audio>
+<audio controls>
+<source src="./sample_output/output (1).wav" type="audio/wav">
+audio is not supported yet.
+</audio>
+<audio controls>
+<source src="./sample_output/output (2).wav" type="audio/wav">
+audio is not supported yet.
+</audio>
+
+
 
 <audio controls>
 <source src="./sample_output/output (5).wav" type="audio/wav">
