@@ -10,26 +10,27 @@ Some sample generation/output from this model -
 
 <audio controls>
 <source src="./sample_output/output (3).wav" type="audio/wav">
-audio is not supported yet.
+[Audio 1](./sample_output/output%20(3).wav)
 </audio>
+<br>
 <audio controls>
 <source src="./sample_output/output (4).wav" type="audio/wav">
-audio is not supported yet.
+[Audio 2](./sample_output/output%20(4).wav)
 </audio>
+<br>
 <audio controls>
 <source src="./sample_output/output (1).wav" type="audio/wav">
-audio is not supported yet.
+[Audio 3](./sample_output/output%20(1).wav)
 </audio>
+<br>
 <audio controls>
 <source src="./sample_output/output (2).wav" type="audio/wav">
-audio is not supported yet.
+[Audio 4](./sample_output/output%20(2).wav)
 </audio>
-
-
-
+<br>
 <audio controls>
 <source src="./sample_output/output (5).wav" type="audio/wav">
-audio is not supported yet.
+[Audio 5](./sample_output/output%20(5).wav)
 </audio>
 
 
